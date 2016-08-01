@@ -1,9 +1,3 @@
-# UNDER CONSTRUCTION 
-This repository will contain instructions and example notebooks for tutorials on using librosa for musical
-audio analysis.
-
----
-
 # Installing the dependencies
 
 Before getting started with librosa, it's important to have a working environment with all dependencies
