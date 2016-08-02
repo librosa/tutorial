@@ -1,3 +1,16 @@
+# Librosa tutorial
+
+In this tutorial, my goal is to get you set up to use librosa for audio and music analysis.
+This tutorial will be interactive, and it will be best if you follow along on your own machine.
+Feel free to bring along some of your own music to analyze!
+
+We'll be using [Jupyter](http://jupyter.org/) notebooks and the [Anaconda](https://www.continuum.io/downloads)
+Python environment with Python version 3.5.  It will be best if you follow the instructions below before
+attending the tutorial, but installation disks will also be provided in case anything goes wrong or you require
+assistance.
+
+---
+
 # Installing the dependencies
 
 Before getting started with librosa, it's important to have a working environment with all dependencies
