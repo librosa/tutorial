@@ -17,7 +17,7 @@ Before getting started with librosa, it's important to have a working environmen
 satisfied.  For this, we recommend using the [Anaconda](https://www.continuum.io/downloads) distribution of
 Python 3.5.  (Older versions of Python are supported as well.)
 
-Once your Anaconda environment is installed, you can install librosa through `conda-forge`:
+Once your Anaconda environment is installed and activated, you can install librosa through `conda-forge`:
 
 ```
 conda install -c conda-forge librosa
