@@ -1,3 +1,7 @@
+# Archived
+
+This repository is no longer maintained.  Tutorials have been migrated into the main [librosa documentation](https://librosa.org/doc/) site.
+
 # Librosa tutorial
 
 In this tutorial, my goal is to get you set up to use librosa for audio and music analysis.
